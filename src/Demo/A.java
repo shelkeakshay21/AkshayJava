@@ -5,7 +5,6 @@ public class A {
 		
 		System.out.println("Heloo word");
 
-		System.out.println("rama ram");
 	}
 	
 
